@@ -9,6 +9,37 @@ body {
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+#contactinfo1{
+    color:white;
+}
+
+#contactinfo2{
+    color:white;
+}
+
+#coupon{
+    position:absolute;
+    margin-left:-89px;
+    margin-top:75px
+}
+
+#lpic1{
+    float:left;
+}
+
+#lpic2{
+    float:left;
+}
+
+#lstuff1{
+    float:right;
+}
+
+#lstuff2{
+    float:right;
+    margin-top: 50px;
+}
+
 .text-muted {
     color: #777;
 }
@@ -35,7 +66,7 @@ a.active {
 }
 
 a {
-    color: #fed136;
+    color: #36E0FE;
 }
 
 a:hover,
@@ -325,10 +356,14 @@ section {
 }
 
 section h2.section-heading {
-    margin-top: 85px;
+    margin-top: 65px;
     margin-bottom: -11px;
     font-size: 40px;
 }
+
+/*#contact{
+    margin-top:50px;
+}*/
 
 section h3.section-subheading {
     margin-bottom: 43px;
